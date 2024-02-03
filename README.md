@@ -1,12 +1,8 @@
-## Tailwind CSS Landing Page
-
-This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library that you can use for your project.
-
 ## Live preview
 
 Check out the live preview here:
 
-[Landing page demo](https://themesberg.github.io/tailwind-landing-page/).
+[Landing page demo](https://stratedge.netlify.app/).
 
 ## Getting started
 
