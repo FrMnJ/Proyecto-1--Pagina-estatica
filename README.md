@@ -17,7 +17,7 @@ Make sure that you have Node.js, Tailwind CSS and Flowbite installed.
 2. Watch for files and compile Tailwind CSS + Flowbite:
 
 ```
-npx tailwindcss -i ./input.css -o ./output.css --watch
+    npx tailwindcss -i ./input.css -o ./output.css --watch
 ```
 
 ## Built with Flowbite Blocks

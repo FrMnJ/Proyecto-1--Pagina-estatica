@@ -2113,6 +2113,10 @@ input:checked + .toggle-bg {
     flex-direction: row;
   }
 
+  .lg\:flex-col {
+    flex-direction: column;
+  }
+
   .lg\:gap-8 {
     gap: 2rem;
   }
